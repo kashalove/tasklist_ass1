@@ -1,0 +1,8 @@
+C:\Users\Syris\source\repos\taskList\taskList\bin\Debug\taskList.exe.config
+C:\Users\Syris\source\repos\taskList\taskList\bin\Debug\taskList.exe
+C:\Users\Syris\source\repos\taskList\taskList\bin\Debug\taskList.pdb
+C:\Users\Syris\source\repos\taskList\taskList\obj\Debug\taskList.csproj.AssemblyReference.cache
+C:\Users\Syris\source\repos\taskList\taskList\obj\Debug\taskList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Syris\source\repos\taskList\taskList\obj\Debug\taskList.csproj.CoreCompileInputs.cache
+C:\Users\Syris\source\repos\taskList\taskList\obj\Debug\taskList.exe
+C:\Users\Syris\source\repos\taskList\taskList\obj\Debug\taskList.pdb
